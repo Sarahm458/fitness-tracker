@@ -1,3 +1,47 @@
+## Description:
+Fitness Tracking Application that allows users to track their workouts, monitor progress, and set fitness goals. This project will involve advanced form handling, dynamic routing, comprehensive styling and data persistence.
+
+## Table of Contents
+- Installation
+- Functionalities
+- Contributing
+
+## Installation
+To set up the project locally, follow these steps:
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/fitness-tracker.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd fitness-tracker
+    ```
+3. Install dependencies:
+    ```sh
+    npm install
+    ```
+4. Start the development server:
+    ```sh
+    npm start
+    ```
+
+## Functionalities
+1. Form Handling and Validation using Formik for form handling and Yup for form validation.
+2. Styling with TailwindCSS ensuring the application is responsive and visually appealing across different devices.
+3. Routing using React Route
+4.Local Storage: Save workout logs and fitness goals in local storage to allow users to track their progress offline.
+Retrieve and display workout logs and goals from local storage on page load.
+
+    
+## Contributing
+Guidelines for contributing to the project:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a pull request.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
